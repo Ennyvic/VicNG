@@ -1,0 +1,162 @@
+.one{
+    display: flex;
+    height: 3rem ;
+    background-color: rgb(187, 181, 181);
+}
+
+a{
+    text-decoration: none;
+    list-style: none;
+    margin-left: 4rem;
+    height: 1rem;
+    padding: 1rem;
+    color: black;
+}
+
+.search{
+    margin-left: 4rem;
+    padding: 1rem;
+}
+
+.footer{
+    display: flex;
+    background-color: rgb(187, 181, 181);
+    margin-top: 2rem;
+}
+
+.first{
+    margin-left: 12rem;
+}
+
+.second{
+    margin-left: 12rem;
+}
+
+.three{
+    margin-left: 5rem;
+}
+
+.bye{
+    text-align: center;
+    background-color: rgb(187, 181, 181);
+    padding: 3rem
+}
+
+body{
+    background-color: rgb(218, 217, 216);
+}
+
+.body{
+    margin-top: 2rem;
+    display: flex;
+}
+
+.black :hover{
+    color: aliceblue;
+}
+
+.black{
+    margin-left: 1rem;
+}
+
+.chanel{
+    margin-left: 2rem;
+}
+
+.elemis{
+    margin-left: 2rem;
+}
+
+span{
+    background-color: red;
+    color: white;
+}
+
+del{
+    font-size: 0.8rem;
+    margin:2px;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+.fancy{
+    margin-left: 2rem;
+}
+
+h3{
+    color: blue;
+    text-align: center;
+    letter-spacing: 5px
+}
+
+.part2{
+    margin-top: 2rem;
+    display: flex;
+}
+
+.dior{
+    margin-left: 2rem;
+}
+
+.nivea{
+    margin-left: 2rem;
+}
+
+.olay{
+    margin-left: 2rem;
+}
+
+.perfume{
+    margin-left: 2rem;
+}
+
+.part3{
+    margin-top: 2rem;
+    display: flex;
+}
+
+.scent{
+    margin-left: 2rem;
+}
+
+.whitef{
+    margin-left: 2rem;
+}
+
+.cocoa{
+    margin-left: 2rem;
+}
+
+.watch{
+    margin-left: 2rem
+}
+
+.about{
+    margin: 1rem;
+    padding: 1rem;
+    letter-spacing: normal;
+    width: 700px;
+    border: 5px  rgb(187, 181, 181)  solid;
+}
+
+a:hover{
+    color: white;
+}
+
+
+.order{
+    text-decoration: none;
+    list-style: none;
+    background-color: blue ;
+    color: black;
+    margin: 0px;
+    padding: 0.9px;
+}
+
+.promotion{
+    border: 5px solid grey;
+    border-radius: 5px;
+    background-color: grey
+}
